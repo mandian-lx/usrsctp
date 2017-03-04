@@ -8,7 +8,7 @@
 Summary:	Reference Implementation for SCTP running in User Space
 Name:		usrsctp
 Version:	0.9.3.0
-Release:	0
+Release:	1
 License:	BSD
 Group:		System/Libraries
 Url:		https://github.com/sctplab/%{name}/
